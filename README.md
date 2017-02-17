@@ -10,7 +10,7 @@
 **The only library you can use is Alamofire**
 
 1. TabBarController with 3 tabs: public gists, your starred gists, your own gists
-2. Gists cannot be anonymous and must have a user picture, username, and description
+2. Gists cannot be anonymous and must have a user picture, username
 3. Loading user pictures should be cached and cancelled if appropriate
 4. All three tabs should have pagination and request 100 gists per page
 5. Ability to star / unstar gists
