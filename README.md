@@ -5,11 +5,9 @@
 
 **If you're stuck:** Treat this as a mock interview take-home coding challenge. Try to see if you can figure out the answer with Google, StackOverflow, or other resources first. If you've tried multiple resources and are at a deadend, ask the instructor to point you in the right direction.
 
-**Specs**
+**Specs:** You're going to be building an app for discovering, saving, and creating Github gists. Your app should have the following:
 
 **The only library you can use is Alamofire**
-
-You're going to be building an app for discovering, saving, and creating Github gists. Your app should have the following:
 
 1. TabBarController with 3 tabs: public gists, your starred gists, your own gists
 2. Gists cannot be anonymous and must have a user picture, username, and description
